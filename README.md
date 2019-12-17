@@ -4,6 +4,7 @@ heartbeat
 [![Code Climate](https://codeclimate.com/github/thenaterhood/heartbeat/badges/gpa.svg)](https://codeclimate.com/github/thenaterhood/heartbeat)
 [![Code Health](https://landscape.io/github/thenaterhood/heartbeat/master/landscape.svg?style=flat)](https://landscape.io/github/thenaterhood/heartbeat/master)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/d2ed1f70fd774c6f9111a96b12d8dcac)](https://www.codacy.com/app/thenaterhood/heartbeat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthenaterhood%2Fheartbeat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthenaterhood%2Fheartbeat?ref=badge_shield)
 
 Heartbeat is a super simple and minimalistic plugin-based monitoring and
 notification tool. Heartbeat comes with a handful of monitoring and notification
@@ -86,3 +87,6 @@ for full license text.
 If you find Heartbeat useful, please consider contributing, providing feedback
 or simply dropping a line to say that Heartbeat was useful to you. If you've
 done something cool, let me know!
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthenaterhood%2Fheartbeat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthenaterhood%2Fheartbeat?ref=badge_large)
